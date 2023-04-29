@@ -1,5 +1,6 @@
 window.alert("hi");
+
 function sum (a, b){
     return a+b
 }
-console.log(5, 7);
+console.log(sum (5, 7));
